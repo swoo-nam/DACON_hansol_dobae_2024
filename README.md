@@ -1,4 +1,4 @@
- <img src='image/main.png'> </img>
+ <img src='image/main.PNG'> </img>
  
 public : 0.83608점 / 3등
 
