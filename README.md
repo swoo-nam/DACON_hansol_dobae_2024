@@ -1,4 +1,4 @@
- <img src='image/main.PNG'> </img>
+ <img src='image/main_240325.png'> </img>
 
 Awards : 2등
 public : 0.83608점 / 3등
